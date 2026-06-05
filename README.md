@@ -15,7 +15,9 @@ Built using **Python, XGBoost, Scikit-Learn, Joblib, and Streamlit**.
 - Fast and accurate predictions
 
 ---
+## 📸 Application Screenshot
 
+![ML-Project-Health-Insurance-Premium-Predictor](Screenshot/app_home.png)
 ## 🧠 Model Architecture
 
 This project uses a **segmented modeling approach** instead of a single model.
